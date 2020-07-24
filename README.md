@@ -40,7 +40,8 @@ Libraries: Numpy & Pandas.}
 
 ## Support and contact details
 
-{ To make a contribution to the code or any part of the project, kindly contact me through; josephinewanjiku748@gmail.com.}
+{ To make a contribution to the code or any part of the project, kindly contact me through; kimanzimaurice73@gmail.com}
++254719888866
 
 ### License
 
